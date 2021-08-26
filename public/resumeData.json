@@ -1,13 +1,13 @@
 {
   "main": {
-    "name": "Avinash Dhar",
+    "name": "Tapas Dhar",
     "occupation": "React developer",
     "description": "I eat, sleep and breathe React",
-    "image": "avinash.jpg",
-    "bio": "Hi there! I am Avinash! I've been coding for over 3 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies.",
+    "image": "tapas.jpeg",
+    "bio": "Hi there! I am Tapas! I've been coding for over 3 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies.",
     "contactmessage": "Get in touch with me to have a wonderful engagement!",
-    "email": "avinashkumardhar@gmail.com",
-    "phone": "+91-8709907704",
+    "email": "tapasdharofficial@gmail.com",
+    "phone": "+91-9901331653",
     "address": {
       "street": "Chas",
       "city": "B.S.City",
@@ -15,31 +15,26 @@
       "zip": "827013"
     },
     "website": "https://flyingdevs.com/",
-    "resumedownload": "https://drive.google.com/file/d/1lPqVtugxTc60ZLiD0EY8suSHzdElrS7H/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/10uH_pY055QFSvrBT6uZE9Y1l_FbMcVqX/view?usp=sharing",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UC04ZXd7K0JtQ4wathyRTtWQ",
+        "url": "https://www.youtube.com/channel/UCqlO6Tge7lj42tCfb4X1Gdg",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/avinash.kumardhar",
+        "url": "https://www.facebook.com/tkumardhar/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/avinash-dhar-04343358/",
+        "url": "https://www.linkedin.com/in/tapasdhar/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/avinashdhar18/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/AvinashDhar",
+        "url": "https://github.com/tapaskdhar",
         "className": "fa fa-github"
       }
     ]
@@ -49,15 +44,15 @@
     "education": [
       {
         "school": "DAV Public school, B.S.City",
-        "degree": "Bachelor's Degree, ECE",
-        "graduated": "July 2019",
+        "degree": "Bachelor's Degree, Computer science",
+        "graduated": "July 2017",
         "description": "Graduated with First Class Honours"
       }
     ],
     "work": [
       {
-        "company": "Tata Consultancy Services",
-        "title": "System Engineer",
+        "company": "Flyingdevs Technologies LLP",
+        "title": "Director",
         "years": "Jan 2020 - Present",
         "description": "Developing software solutions"
       }
@@ -89,7 +84,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Avinash is absolutely excellent, his depth of knowledge really meant a lot to us... I would definitely recommend",
+        "text": "Tapas is absolutely excellent, his depth of knowledge really meant a lot to us... I would definitely recommend",
         "user": "Kawaljeet singh"
       }
     ]
